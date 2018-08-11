@@ -2,7 +2,7 @@ let output = "";
 for (let i = 0; i < 7; i++) {
     output += "#";
     console.log(output);
-    
+
 }
 /* a variable named output is first set to an empty string.  The for loop each turn
 adds an extra '#' symbol to the output string, then prints out the result to the console.
@@ -18,11 +18,11 @@ function isEven(number) {
         else {
             console.log("the number is odd");
         }
-    
+
     }
     else {
         console.log("the value is not a number");
-    }      
+    }
 }
 
 isEven("x");

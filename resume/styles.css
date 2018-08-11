@@ -1,0 +1,77 @@
+body {
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
+
+.container {
+  margin-top: 20px;
+}
+
+/* header styling */
+#header h1 {
+  text-align: center;
+  font-size: 40px;
+  margin: auto;
+  //text-decoration: underline;
+  text-transform: default;
+}
+
+#header p {
+  text-align: center;
+  margin: 10px;
+  font-size: 24px;
+  font-style: italic;
+}
+
+/*education section */
+.education p{
+  margin: auto;
+  display: inline-block;
+
+}
+.p1 {
+  float: right;
+}
+
+/* work section styles */
+.work h3{
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+.work p {
+  margin: auto;
+  display: inline-block;
+}
+
+.work .date0 {
+  float: right;
+}
+.work .date {
+  float: right;
+
+}
+
+.work .gaylea {
+  margin-top: 20px;
+}
+
+/*Volunteer section */
+.vol h3 {
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+.vol p {
+  margin: auto;
+  display: inline-block;
+}
+
+.vol .date {
+  float: right;
+}
+
+/* skills and interests */
+ .skills h3 {
+   text-decoration: underline;
+   margin-bottom: 10px;
+ }
